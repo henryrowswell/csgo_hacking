@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BunnyHop", "csgo_hacking\BunnyHop.csproj", "{DE6D0671-CD8F-4DF3-BAA2-B254A0F95057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriggerBot", "TriggerBot\TriggerBot.csproj", "{C13D651B-0814-417E-A3B8-313C6891B426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallHack", "WallHack\WallHack.csproj", "{64A1874B-7A9B-4981-BB09-F00D50C0D149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE6D0671-CD8F-4DF3-BAA2-B254A0F95057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6D0671-CD8F-4DF3-BAA2-B254A0F95057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6D0671-CD8F-4DF3-BAA2-B254A0F95057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6D0671-CD8F-4DF3-BAA2-B254A0F95057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13D651B-0814-417E-A3B8-313C6891B426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13D651B-0814-417E-A3B8-313C6891B426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13D651B-0814-417E-A3B8-313C6891B426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13D651B-0814-417E-A3B8-313C6891B426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A1874B-7A9B-4981-BB09-F00D50C0D149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A1874B-7A9B-4981-BB09-F00D50C0D149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A1874B-7A9B-4981-BB09-F00D50C0D149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A1874B-7A9B-4981-BB09-F00D50C0D149}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
